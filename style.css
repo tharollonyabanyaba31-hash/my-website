@@ -74,6 +74,32 @@ background:#8b5a2b;
 footer{
 background:#6b3e26;
 color:white;
+
+  
+@media (max-width:768px){
+
+nav a{
+display:block;
+margin:10px 0;
+}
+
+table{
+width:100%;
+}
+
+form{
+width:100%;
+}
+
+.container{
+padding:15px;
+}
+
+h1{
+font-size:24px;
+}
+
+}
 text-align:center;
 padding:10px;
 margin-top:20px;
