@@ -71,9 +71,13 @@ button:hover{
 background:#8b5a2b;
 }
 
-footer{
-background:#6b3e26;
-color:white;
+footer {
+    background: #6b3e26;
+    color: white;
+    padding: 50px 20px; 
+    text-align: center;
+    font-size: 16px; 
+}
 
   
 nav{
